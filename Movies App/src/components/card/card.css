@@ -1,0 +1,12 @@
+
+
+.card{
+	    background: linear-gradient(to right, rgb(255, 128, 8,0.3), rgb(255, 200, 55,0.7));
+	    backdrop-filter: blur(10px);
+}
+
+
+.modal_image{
+	/*size: 10% !importanat;*/
+	max-width: 60%;
+}

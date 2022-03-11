@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: black;
+    min-height: 100vh !important;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.yearSelect{
+  max-width: 300px;
+}
